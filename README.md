@@ -74,7 +74,7 @@ int main (void)  {
 ```
 ## Output
 ### Before
-![out](./1.png)
+![out](1.png)
 
 ### After 
 ![out](2.png)
